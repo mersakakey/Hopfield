@@ -1,5 +1,6 @@
 # Hopfield
 大学の講義で作成したHopFieldネットワークのプログラムです．
+
 左のような入力をすると，事前に指定した複数のパターンのうち近いものに近似します．
 
 ![pic1](https://user-images.githubusercontent.com/75288670/190979470-02a1ba50-c110-45cc-b98d-df340fcbfc3b.PNG)
